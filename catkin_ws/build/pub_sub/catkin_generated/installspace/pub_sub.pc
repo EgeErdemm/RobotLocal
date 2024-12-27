@@ -1,4 +1,4 @@
-prefix=/home/yagiz/catkin_ws/install
+prefix=/home/zekiye/catkin_ws/install
 
 Name: pub_sub
 Description: Description of pub_sub

@@ -1,0 +1,5 @@
+client_server
+/home/zekiye/catkin_ws/devel/.private/client_server/cmake.lock /home/zekiye/catkin_ws/devel/./cmake.lock
+/home/zekiye/catkin_ws/devel/.private/client_server/share/client_server/cmake/client_serverConfig.cmake /home/zekiye/catkin_ws/devel/share/client_server/cmake/client_serverConfig.cmake
+/home/zekiye/catkin_ws/devel/.private/client_server/share/client_server/cmake/client_serverConfig-version.cmake /home/zekiye/catkin_ws/devel/share/client_server/cmake/client_serverConfig-version.cmake
+/home/zekiye/catkin_ws/devel/.private/client_server/lib/pkgconfig/client_server.pc /home/zekiye/catkin_ws/devel/lib/pkgconfig/client_server.pc

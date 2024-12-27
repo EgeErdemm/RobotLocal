@@ -1,0 +1,10 @@
+<launch>
+  <!-- Robotun URDF Dosyasını Yükle -->
+<param name="robot_description" value="$(find my_robot)/urdf/my_robot.urdf" />
+
+  <!-- Gazebo Dünya Dosyasını Başlat -->
+  <node name="gazebo" pkg="gazebo_ros" type="gzserver" args="-s libgazebo_ros_factory.so /home/zekiye/catkin_ws/src/my_robot/worlds/my_world.world" output="screen" />
+
+  <!-- Robotu Spawn Et -->
+  <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" args="-urdf -model my_robot -param robot_description" />
+</launch>

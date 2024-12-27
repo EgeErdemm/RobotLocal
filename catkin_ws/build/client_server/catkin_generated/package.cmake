@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "client_server")
 set(client_server_VERSION "0.0.0")
-set(client_server_MAINTAINER "yagiz <yagiz@todo.todo>")
+set(client_server_MAINTAINER "zekiye <zekiye@todo.todo>")
 set(client_server_PACKAGE_FORMAT "2")
 set(client_server_BUILD_DEPENDS )
 set(client_server_BUILD_EXPORT_DEPENDS )

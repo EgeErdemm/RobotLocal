@@ -1,8 +1,1 @@
-prefix=/home/yagiz/catkin_ws/devel
-
-Name: turtle_play
-Description: Description of turtle_play
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+/home/zekiye/catkin_ws/devel/.private/turtle_play/lib/pkgconfig/turtle_play.pc

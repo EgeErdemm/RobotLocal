@@ -1,8 +1,1 @@
-prefix=/home/yagiz/catkin_ws/devel
-
-Name: client_server
-Description: Description of client_server
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
+/home/zekiye/catkin_ws/devel/.private/client_server/lib/pkgconfig/client_server.pc

@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "pub_sub")
 set(pub_sub_VERSION "0.0.0")
-set(pub_sub_MAINTAINER "yagiz <yagiz@todo.todo>")
+set(pub_sub_MAINTAINER "zekiye <zekiye@todo.todo>")
 set(pub_sub_PACKAGE_FORMAT "2")
 set(pub_sub_BUILD_DEPENDS )
 set(pub_sub_BUILD_EXPORT_DEPENDS )

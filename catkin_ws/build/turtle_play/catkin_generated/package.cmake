@@ -1,6 +1,6 @@
 set(_CATKIN_CURRENT_PACKAGE "turtle_play")
 set(turtle_play_VERSION "0.0.0")
-set(turtle_play_MAINTAINER "yagiz <yagiz@todo.todo>")
+set(turtle_play_MAINTAINER "zekiye <zekiye@todo.todo>")
 set(turtle_play_PACKAGE_FORMAT "2")
 set(turtle_play_BUILD_DEPENDS )
 set(turtle_play_BUILD_EXPORT_DEPENDS )

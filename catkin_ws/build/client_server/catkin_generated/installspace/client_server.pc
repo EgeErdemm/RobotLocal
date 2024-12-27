@@ -1,4 +1,4 @@
-prefix=/home/yagiz/catkin_ws/install
+prefix=/home/zekiye/catkin_ws/install
 
 Name: client_server
 Description: Description of client_server

@@ -1,4 +1,4 @@
-prefix=/home/yagiz/catkin_ws/install
+prefix=/home/zekiye/catkin_ws/install
 
 Name: turtle_play
 Description: Description of turtle_play
