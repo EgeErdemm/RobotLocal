@@ -1,0 +1,2 @@
+auto_nav:client_server:pub_sub:turtle_play
+-DCATKIN_DEVEL_PREFIX=/home/yagiz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yagiz/catkin_ws/install -G Unix Makefiles
